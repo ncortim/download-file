@@ -12,8 +12,8 @@ This is a small Python script that downloads a file from a specified URL. The UR
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/ncortim/download_file.git
-   cd download_file
+   git clone https://github.com/ncortim/download-file.git
+   cd download-file
    ```
 
 2. Create and activate a virtual environment:
